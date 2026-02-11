@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/tmp/kavia/workspace/code-generation/browser-snake-and-ladder-game-10406-10420/snake_and_ladder_frontend"
+}
